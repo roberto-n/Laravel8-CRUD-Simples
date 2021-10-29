@@ -1,7 +1,7 @@
 # laravel8-crud-simples
  crud simples
 
-#Pré-Requisitos#Pré-Requisitos
+#Pré-Requisitos
 
 * PHP >= 8 
 * Laravel >= 8 
@@ -17,7 +17,7 @@
 #cria as configuraçoes 
 *Crie o .env e copie o conteudo do .env.example e faça o update dos valores 
 
-##instalar as dependencias
+#instalar as dependencias
 ``` bash
 composer install
 ```
@@ -29,3 +29,4 @@ php artisan migrate:fresh
 ``` bash
 php artisan serve
 ```
+

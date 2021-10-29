@@ -12,7 +12,7 @@
 
 #clonar o repositorio
 ``` bash
-*git clone https://github.com/roberto-n/Laravel8-CRUD-Simples.git
+git clone https://github.com/roberto-n/Laravel8-CRUD-Simples.git
 ```
 #cria as configuraçoes 
 *Crie o .env e copie o conteudo do .env.example e faça o update dos valores 
